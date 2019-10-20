@@ -14,7 +14,6 @@ int main() {
         cout << "Please enter the integers 1 through 1000" << endl;
         goto start;
     }
-    cout << a << " " << b << " " << c << endl;
     cout << a+b+c << endl;
     return 0;
 }
