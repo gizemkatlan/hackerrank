@@ -37,18 +37,21 @@ if and else are two of the most frequently used conditionals in C/C++, and they 
         ...
     }
 
-Given a positive integer denoting *n*, do the following:
-* If 1<=n<=9, then print the lowercase English word corresponding to the number (e.g., one for **1**, two for **2**, etc.).
-* If n>9, print Greater than 9.
+Given a positive integer denoting $n$, do the following:
+* If $1<=n<=9$, then print the lowercase English word corresponding to the number (e.g., one for $1$, two for $2$, etc.).
+* If $n>9$, print Greater than $9$.
 
 **Input Format**
-A single integer denoting *n*.
+
+A single integer denoting $n$.
 
 **Constraints**
-* 1<=n<=10<sup>9</sup>
+
+* $1<=n<=10<sup>9</sup>$
 
 **Output Format**
-If 1<=n<=9, then print the lowercase English word corresponding to the number (e.g., one for **1**, two for **2**, etc.); otherwise, print Greater than 9 instead.
+
+If $1<=n<=9$, then print the lowercase English word corresponding to the number (e.g., one for $1$, two for $2$, etc.); otherwise, print Greater than 9 instead.
 
 **Sample Input 0**
 
@@ -60,7 +63,7 @@ If 1<=n<=9, then print the lowercase English word corresponding to the number (e
 
 **Explanation 0**
 
-five is the English word for the number **5**.
+five is the English word for the number $5$.
 
 **Sample Input 1**
 
@@ -72,7 +75,7 @@ five is the English word for the number **5**.
 
 **Explanation 1**
 
-eight is the English word for the number **8**.
+eight is the English word for the number $8$.
 
 **Sample Input 2**
 
@@ -84,5 +87,5 @@ eight is the English word for the number **8**.
 
 **Explanation 2**
 
-**n=44** is greater than **9**, so we print *Greater than 9*.
+$n=44$ is greater than $9$, so we print $Greater than 9$.
 
