@@ -59,6 +59,7 @@ If 1<=n<=9, then print the lowercase English word corresponding to the number (e
     five
 
 **Explanation 0**
+
 five is the English word for the number **5**.
 
 **Sample Input 1**
@@ -70,6 +71,7 @@ five is the English word for the number **5**.
     eight
 
 **Explanation 1**
+
 eight is the English word for the number **8**.
 
 **Sample Input 2**
@@ -81,5 +83,6 @@ eight is the English word for the number **8**.
     Greater than 9
 
 **Explanation 2**
+
 **n=44** is greater than **9**, so we print *Greater than 9*.
 
